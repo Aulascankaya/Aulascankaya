@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm A. Ulaş Çankaya</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
--Currently a student at Workintech Academy
+-Currently a student at **[Workintech Academy](https://github.com/Workintech)**
 
 
 - 📫 How to reach me **aulascankaya@gmail.com**
